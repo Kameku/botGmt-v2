@@ -1,0 +1,209 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A612536C14976783',
+    participant: undefined
+  },
+  messageTimestamp: 1674312310,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB059241289690186D3',
+    participant: undefined
+  },
+  messageTimestamp: 1674312316,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'como estas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como estas',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB069425F492A6B6A49',
+    participant: undefined
+  },
+  messageTimestamp: 1674312320,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C10E2C413ABDBDF0',
+    participant: undefined
+  },
+  messageTimestamp: 1674312322,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D70C2F21CBF47537',
+    participant: undefined
+  },
+  messageTimestamp: 1674312326,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0990ABCE8D930CEE0',
+    participant: undefined
+  },
+  messageTimestamp: 1674312335,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'asesor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asesor',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04DA185559449120F',
+    participant: undefined
+  },
+  messageTimestamp: 1674312346,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'asesor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asesor',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0137259F7FC219262',
+    participant: undefined
+  },
+  messageTimestamp: 1674312351,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04B91362B514F335C',
+    participant: undefined
+  },
+  messageTimestamp: 1674312354,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ola',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F66F9B815C365DB8',
+    participant: undefined
+  },
+  messageTimestamp: 1674312357,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'alo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'alo',
+  from: '573013330951'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573013330951@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB072D37A64D273A505',
+    participant: undefined
+  },
+  messageTimestamp: 1674312362,
+  pushName: 'Michael Angel',
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '573013330951'
+}
