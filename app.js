@@ -15,7 +15,7 @@ const flowVerifyPay = addKeyword(['1', 'pagos', 'quiero saber cuando me pagan', 
     .addAnswer("En este link pododras consultar por la placa\nde tu vehiculo el estado de tu pago.")
     .addAnswer("https://appgmt.com")
     .addAnswer("Solo debes escribir *la placa de tu vehiculo* \n y dar click en *Consultar*", {
-        media:'https://netikom.com.au/novena/gmtapp.jpg'
+        media:'https://bot.gmtcarga.com/gmtapp.jpg'
     })
     
 const flowCertificados = addKeyword(['2','certificados','necesito el certificado'])
