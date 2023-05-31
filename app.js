@@ -15,7 +15,7 @@ const flowVerifyPay = addKeyword(['1', 'pagos', 'quiero saber cuando me pagan', 
     .addAnswer("En este link pododras consultar por la placa\nde tu vehiculo el estado de tu pago.")
     .addAnswer("https://appgmt.com")
     .addAnswer("Solo debes escribir *la placa de tu vehiculo* \n y dar click en *Consultar*", {
-        media:'https://bot.gmtcarga.com/gmtapp.jpg'
+        media:'https://app.gmtcarga.com/gmtapp.jpg'
     })
     
 const flowCertificados = addKeyword(['2','certificados','necesito el certificado'])
@@ -56,7 +56,7 @@ const flowOther = addKeyword(['3', 'asesor'])
 //         [flowVerifyPay, flowCertificados, flowOther]
 //     )
 
-const flowPrincipal = addKeyword(['hola','Hola ','hola ','Hola','buenos dias', 'buenas tardes', 'ole', 'alo', ' '])
+const flowPrincipal = addKeyword(['hola','Hola ','hola ','Hola','buenos dias', 'buenas tardes', 'ole', 'alo', ''])
     .addAnswer('🙌 Hola! Bienvenido a GMT transportes logisticos')
     .addAnswer("Mi nombre es Clara y te voy ayudar con tu solicitud",)
     .addAnswer(
