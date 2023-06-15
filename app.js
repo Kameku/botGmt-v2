@@ -56,7 +56,7 @@ const flowOther = addKeyword(['3', 'asesor'])
 //         [flowVerifyPay, flowCertificados, flowOther]
 //     )
 
-const flowPrincipal = addKeyword(['hola','Hola ','hola ','Hola','buenos dias', 'buenas tardes', 'ole', 'alo', ''])
+const flowPrincipal = addKeyword(['hola','Hola ','hola ','Hola','buenos dias', 'buenas tardes', 'ole', 'alo'])
     .addAnswer('🙌 Hola! Bienvenido a GMT transportes logisticos')
     .addAnswer("Mi nombre es Clara y te voy ayudar con tu solicitud",)
     .addAnswer(
